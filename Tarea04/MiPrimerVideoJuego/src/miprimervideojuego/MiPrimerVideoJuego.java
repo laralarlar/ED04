@@ -104,7 +104,8 @@ public class MiPrimerVideoJuego {
         //Cálculo y salida por pantalla del tiempo total sumándole la penalización
         double tiempoFinal = tiempo + nFallos * 5;
         System.out.println("Tu tiempo final es de " + tiempoFinal + " segundos");
-        
+        System.out.println("¡Vuelve a jugar con nosotros!");
+        System.out.println("¡Es muy divertido!");
         
                      
         
